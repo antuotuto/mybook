@@ -1,3 +1,6 @@
-# My Awesome Book
+# 关于我的理解
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这些都是我生命中最好的理解，希望可以一直保留在这里，被人查看
+
+
+
